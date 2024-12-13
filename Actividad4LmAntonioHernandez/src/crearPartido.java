@@ -1,6 +1,10 @@
 
 import java.awt.event.KeyEvent;
 
+/* cambios realizados en
+* @param crearPartido
+* @param añadirPartido
+*/
 
 
 public class crearPartido extends javax.swing.JFrame
