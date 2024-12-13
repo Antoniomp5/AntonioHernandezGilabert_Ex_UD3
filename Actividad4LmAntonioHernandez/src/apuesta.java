@@ -8,6 +8,13 @@ import javax.swing.WindowConstants;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+/*
+ * cambios realizados en 
+ * @param apuesta
+ * @param partidoNuevo
+ * @param borrarPartido
+ * @param cualquiera
+ */
 
 public class apuesta extends javax.swing.JFrame {
 
